@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1667840081 source:c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\programa 4\prog04-robles pulido efrain\house.cpp
+	"House.h"
+
+1667771194 c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\programa 4\prog04-robles pulido efrain\house.h
+	<string>
+	<iostream>
+	<fstream>
+
+1667830924 source:c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\programa 4\prog04-robles pulido efrain\main.cpp
+	<iostream>
+	"Menu.h"
+	"Table_Index.h"
+
+1667450074 c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\programa 4\prog04-robles pulido efrain\graph.h
+	<iostream>
+	<fstream>
+	<string>
+
+1667830976 source:c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\programa 4\prog04-robles pulido efrain\menu.cpp
+	"Menu.h"
+
+1667831019 c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\programa 4\prog04-robles pulido efrain\menu.h
+	"Table_Index.h"
+	"House.h"
+	<iostream>
+
+1667840081 c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\programa 4\prog04-robles pulido efrain\list.h
+	<iostream>
+	<fstream>
+	<string>
+	<exception>
+
+1667873497 c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\programa 4\prog04-robles pulido efrain\table_index.h
+	"List.h"
+
