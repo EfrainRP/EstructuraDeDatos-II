@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1663527436 source:e:\documentos pc\udg materias\estructura 2\prog01-robles pulido efrain\house.cpp
+	"House.h"
+
+1663525985 e:\documentos pc\udg materias\estructura 2\prog01-robles pulido efrain\house.h
+	<string>
+	<iostream>
+	<fstream>
+
+1663522283 source:e:\documentos pc\udg materias\estructura 2\prog01-robles pulido efrain\main.cpp
+	"Menu.h"
+	<iostream>
+
+1663522284 e:\documentos pc\udg materias\estructura 2\prog01-robles pulido efrain\menu.h
+	"List.h"
+	"House.h"
+	<iostream>
+
+1663527611 e:\documentos pc\udg materias\estructura 2\prog01-robles pulido efrain\list.h
+	<iostream>
+	<fstream>
+	<string>
+	<exception>
+
+1663522284 source:e:\documentos pc\udg materias\estructura 2\prog01-robles pulido efrain\menu.cpp
+	"Menu.h"
+

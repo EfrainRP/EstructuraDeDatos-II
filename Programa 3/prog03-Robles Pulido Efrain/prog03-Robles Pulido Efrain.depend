@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1666035354 source:c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\progra de profe\graph\graph.cpp
+
+1666837108 source:c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\progra de profe\graph\main.cpp
+	<iostream>
+	"House.h"
+	"Integer.h"
+	"Graph.h"
+	"Menu.h"
+
+1665979220 source:c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\progra de profe\graph\vertex.cpp
+	"Vertex.h"
+
+1665979363 c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\progra de profe\graph\vertex.h
+	"Edge.h"
+	<string>
+
+1665979354 c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\progra de profe\graph\edge.h
+	"Vertex.h"
+
+1666026488 source:c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\progra de profe\graph\nodes.cpp
+	"Nodes.h"
+
+1666238639 c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\progra de profe\graph\nodes.h
+
+1666884623 c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\progra de profe\graph\graph.h
+	<iostream>
+	<fstream>
+	<string>
+
+1666748702 source:c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\progra de profe\graph\house.cpp
+	"House.h"
+
+1665558859 c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\progra de profe\graph\house.h
+	<string>
+	<iostream>
+	<fstream>
+
+1666845053 c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\progra de profe\graph\menu.h
+	"Graph.h"
+	"House.h"
+	"Integer.h"
+
+1666893765 source:c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\progra de profe\graph\menu.cpp
+	"Menu.h"
+
+1666744190 source:c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\progra de profe\graph\integer.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Integer.h"
+
+1646624468 c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\progra de profe\graph\integer.h
+	<iostream>
+	<string>
+
+1666748702 source:c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\programa 3\prog03-robles pulido efrain\house.cpp
+	"House.h"
+
+1665558859 c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\programa 3\prog03-robles pulido efrain\house.h
+	<string>
+	<iostream>
+	<fstream>
+
+1666906840 source:c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\programa 3\prog03-robles pulido efrain\integer.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Integer.h"
+
+1666906840 c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\programa 3\prog03-robles pulido efrain\integer.h
+	<iostream>
+	<string>
+
+1666899795 source:c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\programa 3\prog03-robles pulido efrain\main.cpp
+	<iostream>
+	"House.h"
+	"Integer.h"
+	"Graph.h"
+	"Menu.h"
+
+1666906840 c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\programa 3\prog03-robles pulido efrain\graph.h
+	<iostream>
+	<fstream>
+	<string>
+
+1666899795 c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\programa 3\prog03-robles pulido efrain\menu.h
+	"Graph.h"
+	"House.h"
+	"Integer.h"
+
+1666906840 source:c:\users\efrai\onedrive - universidad de guadalajara\estructura 2\programa 3\prog03-robles pulido efrain\menu.cpp
+	"Menu.h"
+

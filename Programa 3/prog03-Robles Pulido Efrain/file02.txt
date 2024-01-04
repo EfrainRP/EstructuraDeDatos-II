@@ -1,0 +1,1 @@
+1*38|Madero|Zapopan*18|Guadalupe|Zapopan*1*18|Guadalupe|Zapopan*38|Madero|Zapopan*40*18|Guadalupe|Zapopan*67|Hidalgo|Guadalajara*10*18|Guadalupe|Zapopan*5|Palmeras|Providencia*15*5|Palmeras|Providencia*67|Hidalgo|Guadalajara*60*67|Hidalgo|Guadalajara*38|Madero|Zapopan*40*67|Hidalgo|Guadalajara*18|Guadalupe|Zapopan*
